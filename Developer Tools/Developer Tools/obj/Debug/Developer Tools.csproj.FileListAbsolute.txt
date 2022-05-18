@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\bin\Debug\Developer Tools.exe.config
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\bin\Debug\Developer Tools.exe
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\bin\Debug\Developer Tools.pdb
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\obj\Debug\Developer Tools.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\obj\Debug\Developer Tools.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\obj\Debug\Developer_Tools.Properties.Resources.resources
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\obj\Debug\Developer Tools.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\obj\Debug\Developer Tools.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\obj\Debug\Developer Tools.exe
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\obj\Debug\Developer Tools.pdb
+C:\Users\Acer\source\repos\Developer Tools\Developer Tools\obj\Debug\Developer_Tools.DT.resources
